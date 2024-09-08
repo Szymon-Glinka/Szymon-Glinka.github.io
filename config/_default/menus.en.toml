@@ -1,0 +1,38 @@
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "eAnHAPmV1V"
+weight = 2
+
+[[main]]
+name = "Home"
+pageRef = "index"
+identifier = "KCgx6vYcpW"
+weight = 1
+
+[[main]]
+name = "About Me"
+pageRef = "about"
+identifier = "oH3nAxdPVc"
+weight = 4
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+identifier = "DfnzlEa6HX"
+weight = 5
+
+[[main]]
+name = "ANUlab"
+pageRef = "anulab"
+identifier = "5IYwsjgDTd"
+weight = 3
+
+[[main]]
+pre = "github"
+url = "https://github.com/Szymon-Glinka"
+identifier = "nvumXsWy43"
+weight = 9999
+
+[[footer]]
+none = "none"

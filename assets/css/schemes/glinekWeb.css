@@ -1,0 +1,38 @@
+/* glinekWeb color scheeme */
+:root {
+    --color-neutral: 255, 255, 255;
+    /* Stone */
+    --color-neutral-50: #868288;
+    --color-neutral-100: #9c989e;
+    --color-neutral-200: #b2aeb5;
+    --color-neutral-300: #c9c3cb;
+    --color-neutral-400: #dfd9e2;
+    --color-neutral-500: #dfd9e2;
+    --color-neutral-600: #e2dde5;
+    --color-neutral-700: #e5e1e8;
+    --color-neutral-800: #e9e4eb;
+    --color-neutral-900: #ece8ee;
+    /* Lime */
+    --color-primary-50: #162233;
+    --color-primary-100: #1a273b;
+    --color-primary-200: #1e2d44;
+    --color-primary-300: #21324d;
+    --color-primary-400: #253855;
+    --color-primary-500: #253855;
+    --color-primary-600: #3b4c66;
+    --color-primary-700: #516077;
+    --color-primary-800: #667488;
+    --color-primary-900: #7c8899;
+    /* Emerald */
+    --color-secondary-50: #0a201f;
+    --color-secondary-100: #0c2827;
+    --color-secondary-200: #0e302f;
+    --color-secondary-300: #113837;
+    --color-secondary-400: #13403e;
+    --color-secondary-500: #164846;
+    --color-secondary-600: #18504e;
+    --color-secondary-700: #18504e;
+    --color-secondary-800: #2f6260;
+    --color-secondary-900: #467371;
+  }
+  

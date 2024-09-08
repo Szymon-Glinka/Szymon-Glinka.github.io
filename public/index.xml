@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glinek</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Glinek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Szymon Glinka | This website does NOT use any cookies for tracking.</copyright>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pelican Case workstation</title>
+      <link>//localhost:1313/projects/1725473865525-pelican-case-workstation/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1725473865525-pelican-case-workstation/</guid>
+      <description>This is a 15kg pelican case that houses lab bench power supply, ethernet switch, second screen, charger for my laptop and much more. Also It&amp;rsquo;s incredible durable thanks to using a gun hard case.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725473865525-pelican-case-workstation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>RC car mode</title>
+      <link>//localhost:1313/projects/1725473930445-rc-car-mode/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1725473930445-rc-car-mode/</guid>
+      <description>A mod for RC. Completely new remote based on LoRa, new and stronger battery, better H-Bridge. All of those improvements make it more pleasurable to drive. And don&amp;rsquo;t worry, with a little persistence It should be possible to mod any RC like that.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725473930445-rc-car-mode/featured.png" />
+    </item>
+    
+    <item>
+      <title>Obsium mk2</title>
+      <link>//localhost:1313/projects/1724831487281-obsium-mk2/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1724831487281-obsium-mk2/</guid>
+      <description>Obsium mk2 is an upgraded version of my beloved Obsium. New version comes with Raspberry Pi 5, 512GB SSD and much more. But those upgrades came at a cost of some functionalities of the previous version.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1724831487281-obsium-mk2/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Otsi cyberpet - mk1</title>
+      <link>//localhost:1313/projects/1724773813548-otsi/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1724773813548-otsi/</guid>
+      <description>Otsi is a winning design of a cyberpet made for Cyberdeck Cafe&amp;rsquo;s contest. Main objective of this contest was to build your personal companion that would need to be taken care of and would serve a real life purpose like helping you with everyday tasks.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1724773813548-otsi/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Atrovel calculator</title>
+      <link>//localhost:1313/projects/1725463418726-atrovel-calculator/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1725463418726-atrovel-calculator/</guid>
+      <description>Atrovel calculator is a project that originated from one of my schools lessons. We were learning how to use 4x4 button matrix and bored Simon decided that it would be a great idea to make a simple calculator.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725463418726-atrovel-calculator/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Obsium mk1</title>
+      <link>//localhost:1313/projects/1724773805509-obsium/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1724773805509-obsium/</guid>
+      <description>Cyberdecks serve a different purpose for everybody. Some create it purely for fun others try to make a perfect „laptop” like device to fulfil all of their needs. For me it is both.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1724773805509-obsium/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>One-key keyboard</title>
+      <link>//localhost:1313/projects/1725463405247-one-key-keyboard/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1725463405247-one-key-keyboard/</guid>
+      <description>This is yet another project made for a contest hosted by Cyberdeck Cafe. The objective was to create a keyboard that, as the name suggests, has only one button. Everything else was up to you.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725463405247-one-key-keyboard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>Hi, I&amp;rsquo;m Simon #I&amp;rsquo;m an 18yo robotics engineering student. In school I mainly program PLCs (we have siemens s7-1200s) and industrial robots (in labs there are two kuka&amp;rsquo;s KR 4 R600, one kuka KR16 and three ABB collaborative robots).</description>
+      
+    </item>
+    
+    <item>
+      <title>ANUlab</title>
+      <link>//localhost:1313/anulab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/anulab/</guid>
+      <description>What is ANUlab? #Anulab is an organization of mine. For now I use it only as a place to post projects (I just prefere when my projects are made under some brand, It just looks more professional).</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/contact/</guid>
+      <description>Due to my overuse of computer and phone, even though it is important for what I do. There are two ways to contact me, either via Discord @glinek_tronic or via email My mail here</description>
+      
+    </item>
+    
+  </channel>
+</rss>
