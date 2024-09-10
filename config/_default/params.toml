@@ -15,7 +15,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "background"
 showRecent = true
 showRecentItems = "2"
 showMoreLink = true
@@ -23,7 +23,7 @@ showMoreLinkDest = "./projects"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "20240127_144444.jpg"
+homepageImage = "basic_v3-1.png"
 
 [article]
 showDate = true

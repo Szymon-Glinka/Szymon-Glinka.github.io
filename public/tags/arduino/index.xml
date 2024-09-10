@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino on Glinek</title>
-    <link>//localhost:1313/tags/arduino/</link>
+    <link>//localhost:53105/tags/arduino/</link>
     <description>Recent content in Arduino on Glinek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Szymon Glinka | This website does NOT use any cookies for tracking.</copyright>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:53105/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atrovel calculator</title>
-      <link>//localhost:1313/projects/1725463418726-atrovel-calculator/</link>
+      <link>//localhost:53105/projects/1725463418726-atrovel-calculator/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/1725463418726-atrovel-calculator/</guid>
+      <guid>//localhost:53105/projects/1725463418726-atrovel-calculator/</guid>
       <description>Atrovel calculator is a project that originated from one of my schools lessons. We were learning how to use 4x4 button matrix and bored Simon decided that it would be a great idea to make a simple calculator.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725463418726-atrovel-calculator/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:53105/projects/1725463418726-atrovel-calculator/featured.jpg" />
     </item>
     
     <item>
       <title>One-key keyboard</title>
-      <link>//localhost:1313/projects/1725463405247-one-key-keyboard/</link>
+      <link>//localhost:53105/projects/1725463405247-one-key-keyboard/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/1725463405247-one-key-keyboard/</guid>
+      <guid>//localhost:53105/projects/1725463405247-one-key-keyboard/</guid>
       <description>This is yet another project made for a contest hosted by Cyberdeck Cafe. The objective was to create a keyboard that, as the name suggests, has only one button. Everything else was up to you.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725463405247-one-key-keyboard/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:53105/projects/1725463405247-one-key-keyboard/featured.jpg" />
     </item>
     
   </channel>
