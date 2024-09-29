@@ -3,146 +3,170 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:53105/tags/cyberdeck/</loc>
+    <loc>//localhost:1313/tags/chloe/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/projects/1727616024277-chloe---hackyeah2024/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/hackyeah/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/software/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/cyberdeck/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/</loc>
+    <loc>//localhost:1313/tags/other/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/other/</loc>
+    <loc>//localhost:1313/projects/1725473865525-pelican-case-workstation/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/projects/1725473865525-pelican-case-workstation/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:53105/projects/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:53105/tags/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:53105/projects/1725473930445-rc-car-mode/</loc>
+    <loc>//localhost:1313/projects/1725473930445-rc-car-mode/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/obsium/</loc>
+    <loc>//localhost:1313/tags/obsium/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/projects/1724831487281-obsium-mk2/</loc>
+    <loc>//localhost:1313/projects/1724831487281-obsium-mk2/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/cyberpet/</loc>
+    <loc>//localhost:1313/tags/cyberpet/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/open-source/</loc>
+    <loc>//localhost:1313/tags/open-source/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/otsi/</loc>
+    <loc>//localhost:1313/tags/otsi/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/projects/1724773813548-otsi/</loc>
+    <loc>//localhost:1313/projects/1724773813548-otsi/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/arduino/</loc>
+    <loc>//localhost:1313/tags/arduino/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/projects/1725463418726-atrovel-calculator/</loc>
+    <loc>//localhost:1313/projects/1725463418726-atrovel-calculator/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/calculator/</loc>
+    <loc>//localhost:1313/tags/calculator/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/projects/1724773805509-obsium/</loc>
+    <loc>//localhost:1313/projects/1724773805509-obsium/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/tags/keyboard/</loc>
+    <loc>//localhost:1313/tags/keyboard/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/projects/1725463405247-one-key-keyboard/</loc>
+    <loc>//localhost:1313/projects/1725463405247-one-key-keyboard/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/anulab/</loc>
+    <loc>//localhost:1313/anulab/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:53105/series/</loc>
+    <loc>//localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
