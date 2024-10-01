@@ -141,11 +141,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tnst/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -171,7 +166,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/authors/franek/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/authors/maciek/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tnst/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
