@@ -14,13 +14,13 @@ weight = 1
 name = "About Me"
 pageRef = "about"
 identifier = "oH3nAxdPVc"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Contact"
 pageRef = "contact"
 identifier = "DfnzlEa6HX"
-weight = 5
+weight = 6
 
 [[main]]
 name = "ANUlab"
@@ -33,6 +33,12 @@ pre = "github"
 url = "https://github.com/Szymon-Glinka"
 identifier = "nvumXsWy43"
 weight = 9999
+
+[[main]]
+name = "TNST"
+pageRef = "tnst"
+identifier = "JCwfHekekU"
+weight = 4
 
 [[footer]]
 none = "none"

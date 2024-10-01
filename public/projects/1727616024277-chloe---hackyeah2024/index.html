@@ -111,7 +111,7 @@
     "keywords": ["HackYeah","Chloe","Software"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "354"
+    "wordCount": "367"
   }]
   </script>
 
@@ -144,6 +144,11 @@
 
 
 
+
+
+
+<link rel="stylesheet" href="/lib/lite-youtube-embed/lite-yt-embed.css" integrity=""/>
+<script src="/lib/lite-youtube-embed/lite-yt-embed.58a8a22aed9d1cd05780869df4b0d87972fcd144a9eaff8f9a1453e58e6521c5a89ccd80bdb9f48e25ae5ee87b98bd9de51b14dd9988c60e4c89630433292084.js" integrity="sha512-WKiiKu2dHNBXgIad9LDYeXL80USp6v&#43;PmhRT5Y5lIcWonM2Avbn0jiWuXuh7mL2d5RsU3ZmIxg5MiWMEMykghA=="></script>
 
 
   
@@ -226,6 +231,17 @@
     
     <p class="text-base font-medium" title="">
         ANUlab
+    </p>
+</a>
+
+
+
+            
+            
+  <a href="/tnst/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        TNST
     </p>
 </a>
 
@@ -445,6 +461,21 @@
         
         <p class="text-bg font-bg" title="">
             ANUlab
+        </p>
+    </a>
+</li>
+
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/tnst/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            TNST
         </p>
     </a>
 </li>
@@ -740,7 +771,75 @@
   
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#youtube-showcase">Youtube showcase</a></li>
+    <li><a href="#github-repo">Github Repo</a></li>
+    <li><a href="#rocketchallange-page">RocketChallange Page</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#youtube-showcase">Youtube showcase</a></li>
+    <li><a href="#github-repo">Github Repo</a></li>
+    <li><a href="#rocketchallange-page">RocketChallange Page</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+</script>
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
@@ -750,7 +849,7 @@
         <div class="article-content max-w-prose mb-20">
           <p>This is a project made in 24h during HackYeah2024 aka. Hackathon. Unfortunately She didn&rsquo;t win but I&rsquo;m sure that with a little bit of tweaking and better
 preparation next time, there is a huge chance to win.</p>
-<p>
+
   
 
 
@@ -780,8 +879,46 @@ preparation next time, there is a huge chance to win.</p>
       class="dark:text-neutral-300"
     ><strong>Warning!</strong> This project is no longer developed</span>
 </div>
-  <br>
-<a id="github-aebe7f008a607a8e93f41459f357479d" target="_blank" href="https://github.com/A-N-Ulab/hackathon2024" class="cursor-pointer">
+
+
+
+<h1 class="relative group">Links 
+    <div id="links" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#links" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+
+
+<h2 class="relative group">Youtube showcase 
+    <div id="youtube-showcase" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#youtube-showcase" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<lite-youtube videoid="5L8rV-CZbQI" playlabel="5L8rV-CZbQI" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">Github Repo 
+    <div id="github-repo" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#github-repo" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<a id="github-97597bcf9b9470c181cce2aad0c05c6f" target="_blank" href="https://github.com/A-N-Ulab/hackathon2024" class="cursor-pointer">
   <div
     class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
 
@@ -797,13 +934,13 @@ preparation next time, there is a huge chance to win.</p>
 
       </span>
       <div
-        id="github-aebe7f008a607a8e93f41459f357479d-full_name"
+        id="github-97597bcf9b9470c181cce2aad0c05c6f-full_name"
         class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
         A-N-Ulab/hackathon2024
       </div>
     </div>
 
-    <p id="github-aebe7f008a607a8e93f41459f357479d-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+    <p id="github-97597bcf9b9470c181cce2aad0c05c6f-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
       
     </p>
 
@@ -824,7 +961,7 @@ preparation next time, there is a huge chance to win.</p>
 
 
       </span>
-      <div id="github-aebe7f008a607a8e93f41459f357479d-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-97597bcf9b9470c181cce2aad0c05c6f-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         0
       </div>
 
@@ -837,7 +974,7 @@ preparation next time, there is a huge chance to win.</p>
 
 
       </span>
-      <div id="github-aebe7f008a607a8e93f41459f357479d-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-97597bcf9b9470c181cce2aad0c05c6f-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         0
       </div>
 
@@ -852,14 +989,27 @@ preparation next time, there is a huge chance to win.</p>
     })
       .then(response => response.json())
       .then(data => {
-        document.getElementById('github-aebe7f008a607a8e93f41459f357479d-full_name').innerHTML = data.full_name;
-        document.getElementById('github-aebe7f008a607a8e93f41459f357479d-description').innerHTML = data.description;
-        document.getElementById('github-aebe7f008a607a8e93f41459f357479d-stargazers').innerHTML = data.stargazers_count;
-        document.getElementById('github-aebe7f008a607a8e93f41459f357479d-forks').innerHTML = data.forks;
+        document.getElementById('github-97597bcf9b9470c181cce2aad0c05c6f-full_name').innerHTML = data.full_name;
+        document.getElementById('github-97597bcf9b9470c181cce2aad0c05c6f-description').innerHTML = data.description;
+        document.getElementById('github-97597bcf9b9470c181cce2aad0c05c6f-stargazers').innerHTML = data.stargazers_count;
+        document.getElementById('github-97597bcf9b9470c181cce2aad0c05c6f-forks').innerHTML = data.forks;
       })
       .catch(error => console.error(error))
   </script>
-</a></p>
+</a>
+
+
+<h2 class="relative group">RocketChallange Page 
+    <div id="rocketchallange-page" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#rocketchallange-page" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p><a href="https://challengerocket.com/hackyeah-2024/works/chloe--twoja-matematyczna-zaba-55cd29#go-pagecontent" target="_blank">RocketChalange Link</a></p>
 
 
 <h1 class="relative group">Story 

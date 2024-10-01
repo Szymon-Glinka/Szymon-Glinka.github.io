@@ -14,7 +14,14 @@ preparation next time, there is a huge chance to win.
 {{< alert >}}
 **Warning!** This project is no longer developed    
 {{< /alert >}}     
+
+# Links
+## Youtube showcase
+{{< youtubeLite id="5L8rV-CZbQI" label="Chloe YT video">}}
+## Github Repo
 {{< github repo="A-N-Ulab/hackathon2024" >}}
+## RocketChallange Page
+[RocketChalange Link](https://challengerocket.com/hackyeah-2024/works/chloe--twoja-matematyczna-zaba-55cd29#go-pagecontent)
 
 # Story
 It all started in April when I asked my friends if they would like to come to the Hackathon with me (I was dreaming about it for a few years at that point).
