@@ -7,6 +7,9 @@ tags: ["Cyberdeck", "Obsium"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 
 Obsium mk2 is an upgraded version of my beloved Obsium. New version comes with Raspberry Pi 5, 512GB SSD and much more. But those upgrades came at a cost of some functionalities of the previous version.

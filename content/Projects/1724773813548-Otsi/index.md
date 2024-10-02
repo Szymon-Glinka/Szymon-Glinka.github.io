@@ -7,6 +7,9 @@ tags: ["Cyberpet", "Otsi", "Open Source"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 Otsi is a winning design of a cyberpet made for Cyberdeck Cafe's contest. Main objective of this contest was to build your personal companion that would need to be taken care of and would serve a real life purpose like helping you with everyday tasks.
 

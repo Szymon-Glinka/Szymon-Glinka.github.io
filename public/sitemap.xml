@@ -146,6 +146,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/authors/anulab/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/anulab/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -171,12 +176,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/authors/glinek/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/authors/maciek/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/authors/tnst/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

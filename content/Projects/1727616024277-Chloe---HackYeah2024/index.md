@@ -7,6 +7,9 @@ tags: ["HackYeah", "Chloe", "Software"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "tnst"
 ---
 This is a project made in 24h during HackYeah2024 aka. Hackathon. Unfortunately She didn't win but I'm sure that with a little bit of tweaking and better
 preparation next time, there is a huge chance to win.

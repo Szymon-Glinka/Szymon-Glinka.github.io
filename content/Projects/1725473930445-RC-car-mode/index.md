@@ -7,6 +7,9 @@ tags: ["Other"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 
 A mod for RC. Completely new remote based on LoRa, new and stronger battery, better H-Bridge. All of those improvements make it more pleasurable to drive. And don't worry, with a little persistence It should be possible to mod any RC like that.

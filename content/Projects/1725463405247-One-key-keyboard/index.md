@@ -7,6 +7,9 @@ tags: ["Arduino", "keyboard", "Open Source"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 
 This is yet another project made for a contest hosted by Cyberdeck Cafe. The objective was to create a keyboard that, as the name suggests, has only one button. Everything else was up to you.

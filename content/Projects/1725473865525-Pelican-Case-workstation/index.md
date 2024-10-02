@@ -7,6 +7,9 @@ tags: ["Other", "Cyberdeck"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 
 This is a 15kg pelican case that houses lab bench power supply, ethernet switch, second screen, charger for my laptop and much more. Also It's incredible durable thanks to using a gun hard case.

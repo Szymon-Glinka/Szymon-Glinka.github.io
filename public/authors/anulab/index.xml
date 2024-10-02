@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anulab on Glinek</title>
+    <link>//localhost:1313/authors/anulab/</link>
+    <description>Recent content in Anulab on Glinek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Szymon Glinka | This website does NOT use any cookies for tracking.</copyright>
+    <atom:link href="//localhost:1313/authors/anulab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ANUlab</title>
+      <link>//localhost:1313/anulab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/anulab/</guid>
+      <description>What is ANUlab? #Anulab is an organization of mine. For now I use it only as a place to post projects (I just prefere when my projects are made under some brand, It just looks more professional).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

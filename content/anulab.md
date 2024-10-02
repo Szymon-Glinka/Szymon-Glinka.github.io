@@ -4,6 +4,9 @@ showDate: false
 showPagination: false
 showTableOfContents: false
 showReadingTime: false
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 
 ## What is ANUlab?

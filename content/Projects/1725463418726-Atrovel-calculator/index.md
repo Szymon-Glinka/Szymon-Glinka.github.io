@@ -7,6 +7,9 @@ tags: ["Arduino", "Calculator", "Open Source"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"
+authors:
+  - "anulab"
+  - "glinekNormal"
 ---
 
 Atrovel calculator is a project that originated from one of my schools lessons. We were learning how to use 4x4 button matrix and bored Simon decided that it would be a great idea to make a simple calculator.

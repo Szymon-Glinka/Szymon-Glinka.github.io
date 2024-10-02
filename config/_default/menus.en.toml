@@ -1,14 +1,34 @@
 [[main]]
+name = "Home"
+pageRef = "index"
+identifier = "KCgx6vYcpW"
+weight = 1
+
+[[main]]
 name = "Projects"
 pageRef = "projects"
 identifier = "eAnHAPmV1V"
 weight = 2
 
 [[main]]
-name = "Home"
-pageRef = "index"
-identifier = "KCgx6vYcpW"
-weight = 1
+name = "Organizations&Teams"
+pageRef = " "
+identifier = "ot"
+weight = 3
+
+[[main]]
+name = "TNST"
+pageRef = "tnst"
+identifier = "JCwfHekekU"
+parent = "ot"
+weight = 9999
+
+[[main]]
+name = "ANUlab"
+pageRef = "anulab"
+identifier = "5IYwsjgDTd"
+parent = "ot"
+weight = 9999
 
 [[main]]
 name = "About Me"
@@ -23,22 +43,14 @@ identifier = "DfnzlEa6HX"
 weight = 6
 
 [[main]]
-name = "ANUlab"
-pageRef = "anulab"
-identifier = "5IYwsjgDTd"
-weight = 3
-
-[[main]]
 pre = "github"
 url = "https://github.com/Szymon-Glinka"
 identifier = "nvumXsWy43"
 weight = 9999
 
-[[main]]
-name = "TNST"
-pageRef = "tnst"
-identifier = "JCwfHekekU"
-weight = 4
+
+
+
 
 [[footer]]
 none = "none"
