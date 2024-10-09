@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>//localhost:1313/authors/anulab/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/authors/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/tags/chloe/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,7 +57,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/authors/tnst/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/tags/cyberdeck/</loc>
+    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/authors/glineknormal/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -146,17 +170,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/anulab/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/anulab/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -176,7 +190,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/glinek/</loc>
+    <loc>//localhost:1313/authors/glinektnst/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -187,11 +201,6 @@
   </url>
   <url>
     <loc>//localhost:1313/series/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/authors/tnst/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
