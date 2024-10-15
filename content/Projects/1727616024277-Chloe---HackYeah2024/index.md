@@ -15,16 +15,19 @@ This is a project made in 24h during HackYeah2024 aka. Hackathon. Unfortunately 
 preparation next time, there is a huge chance to win.
 
 {{< alert >}}
-**Warning!** This project is no longer developed    
+**Warning!** This project is no longer developed.
 {{< /alert >}}     
-
+{{< alert >}}
+**Warning!** This project has been created in Polish, all the docs are in Polish.    
+{{< /alert >}}  
+# 
 # Links
 ## Youtube showcase
 {{< youtubeLite id="5L8rV-CZbQI" label="Chloe YT video">}}
 ## Github Repo
 {{< github repo="A-N-Ulab/hackathon2024" >}}
 ## RocketChallange Page
-[RocketChalange Link](https://challengerocket.com/hackyeah-2024/works/chloe--twoja-matematyczna-zaba-55cd29#go-pagecontent)
+**RocketChalange:** [Link](https://challengerocket.com/hackyeah-2024/works/chloe--twoja-matematyczna-zaba-55cd29#go-pagecontent)
 
 # Story
 It all started in April when I asked my friends if they would like to come to the Hackathon with me (I was dreaming about it for a few years at that point).
