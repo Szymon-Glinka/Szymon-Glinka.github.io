@@ -33,6 +33,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/authors/glineknormal/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/tags/hackyeah/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -63,13 +69,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/cyberdeck/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/vgtoy/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/glineknormal/</loc>
+    <loc>//localhost:1313/projects/1729534794174-veytoy-desktop-timer/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/cyberdeck/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

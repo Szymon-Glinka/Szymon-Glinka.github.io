@@ -7,27 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Szymon Glinka | This website does NOT use any cookies for tracking.</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pelican Case workstation</title>
-      <link>//localhost:1313/projects/1725473865525-pelican-case-workstation/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <title>Veytoy-desktop timer</title>
+      <link>//localhost:1313/projects/1729534794174-veytoy-desktop-timer/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/1725473865525-pelican-case-workstation/</guid>
+      <guid>//localhost:1313/projects/1729534794174-veytoy-desktop-timer/</guid>
       <description>an example to get you started
 This is a heading #This is a subheading #This is a subsubheading #This is a subsubsubheading #This is a paragraph with bold and italic text.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725473865525-pelican-case-workstation/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>RC car mode</title>
-      <link>//localhost:1313/projects/1725473930445-rc-car-mode/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/projects/1725473930445-rc-car-mode/</guid>
-      <description>an example to get you started
-This is a heading #This is a subheading #This is a subsubheading #This is a subsubsubheading #This is a paragraph with bold and italic text.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1725473930445-rc-car-mode/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1729534794174-veytoy-desktop-timer/featured.jpg" />
     </item>
     
   </channel>

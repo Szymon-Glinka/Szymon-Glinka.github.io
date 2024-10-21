@@ -43,4 +43,4 @@ appease you, she is going to therapy.
 I want this to be an example for all the people that think everything goes wonderfully for others. As you can see, It's not. But this isn't about winning,
 It was about meeting my friends and having a shit ton of fun. And oh boy, I did have a lot of fun.\
 **Stay positive and keep dreaming**\
-~Simon
+~Totally Not Suspicious Team
