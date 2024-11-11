@@ -4,13 +4,61 @@
 
   <url>
     <loc>//localhost:1313/authors/anulab/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/authors/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/authors/glineknormal/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/hackyeah/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/software/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/veytoy/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/projects/1729534794174-veytoy-desktop-timer/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,55 +75,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/authors/glineknormal/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/hackyeah/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/projects/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/software/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/authors/tnst/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/vgtoy/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/projects/1729534794174-veytoy-desktop-timer/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

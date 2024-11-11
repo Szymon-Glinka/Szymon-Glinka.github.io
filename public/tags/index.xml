@@ -7,21 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Szymon Glinka | This website does NOT use any cookies for tracking.</copyright>
-    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chloe</title>
-      <link>//localhost:1313/tags/chloe/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/tags/chloe/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HackYeah</title>
       <link>//localhost:1313/tags/hackyeah/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tags/hackyeah/</guid>
       <description></description>
@@ -31,7 +21,7 @@
     <item>
       <title>Software</title>
       <link>//localhost:1313/tags/software/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tags/software/</guid>
       <description></description>
@@ -39,11 +29,21 @@
     </item>
     
     <item>
-      <title>VGtoy</title>
-      <link>//localhost:1313/tags/vgtoy/</link>
+      <title>VeyToy</title>
+      <link>//localhost:1313/tags/veytoy/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/veytoy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chloe</title>
+      <link>//localhost:1313/tags/chloe/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/vgtoy/</guid>
+      <guid>//localhost:1313/tags/chloe/</guid>
       <description></description>
       
     </item>
