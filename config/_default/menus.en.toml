@@ -11,24 +11,16 @@ identifier = "eAnHAPmV1V"
 weight = 2
 
 [[main]]
-name = "Organizations&Teams"
-pageRef = " "
-identifier = "ot"
-weight = 3
-
-[[main]]
 name = "TNST"
 pageRef = "tnst"
 identifier = "JCwfHekekU"
-parent = "ot"
-weight = 9999
+weight = 4
 
 [[main]]
 name = "ANUlab"
 pageRef = "anulab"
 identifier = "5IYwsjgDTd"
-parent = "ot"
-weight = 9999
+weight = 3
 
 [[main]]
 name = "About Me"

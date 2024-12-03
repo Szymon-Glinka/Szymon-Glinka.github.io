@@ -3,7 +3,7 @@ title: "VeyToy - desktop timer"
 date: 2024-10-20
 draft: false
 description: "Timer for your desk"
-tags: ["HackYeah", "VeyToy", "Software"]
+tags: ["VeyToy", "Software"]
 showTaxonomies: true
 showHero: true
 heroStyle: "background"

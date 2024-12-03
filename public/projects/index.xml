@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Szymon Glinka | This website does NOT use any cookies for tracking.</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Otsi mk2</title>
+      <link>//localhost:1313/projects/1733255278396-otsi_mk2/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/1733255278396-otsi_mk2/</guid>
+      <description>This is an article dedicated to host all Otsi&amp;rsquo;s project-logs. Otsi is too massive to keep her as one article so I decided to break it into individual logs. Each project-log is gonna be focused on a specific milestone.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1733255278396-otsi_mk2/featured.jpg" />
+    </item>
+    
     <item>
       <title>VeyToy - desktop timer</title>
       <link>//localhost:1313/projects/1729534794174-veytoy-desktop-timer/</link>
