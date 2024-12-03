@@ -35,4 +35,7 @@ This is an article dedicated to host all Otsi's project-logs. Otsi is too massiv
 
 {{< timelineItem icon="xmark" header="Otsi Software" badge="unknown">}}
 {{< /timelineItem >}}
+
+{{< timelineItem icon="xmark" header="Otsi Summary" badge="unknown">}}
+{{< /timelineItem >}}
 {{< /timeline >}}

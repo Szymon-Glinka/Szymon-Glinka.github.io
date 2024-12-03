@@ -18,5 +18,5 @@ This is first project-log of Otsi-mk2. Here I am going to focus on schematic and
 {{< alert >}}
 **Info:** I still haven't recived PCB, nothing is checked. The schematic might change if I find any mistakes
 {{< /alert >}}
-
+#
 # Page is still being made. Please come back later
